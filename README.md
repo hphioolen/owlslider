@@ -8,7 +8,23 @@ Todo
 Formaten?
 Volgorde?
 
-
+# JAVASCRIPT aanpassingen
+in Assets/scripts main.js de owl carousel aanzetten:
+ 
+ // Home page
+	'home': {
+      init: function() {
+        // JavaScript to be fired on the home page
+         $("#owl-slider").owlCarousel({
+	    
+		    autoPlay: 6000,       
+	        items : 1,
+	        loop:true,
+	        autoplay: true,
+	        animateOut: 'fadeOut'
+	       
+	
+		});
 
 # Dependancies
 

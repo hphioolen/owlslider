@@ -1,0 +1,14 @@
+{
+  "name": "owlslider",
+  "version": "1.0.0",
+  "homepage": "https://github.com/hphioolen/owlslider",
+  "authors": [
+    "hphioolen"
+  ],
+  "description": "Owl Carousel als slider integreren in Sage",
+  "main": "./css/*",
+  "license": "MIT",
+  "dependencies": {
+    "owl.carousel": "smashingboxes/OwlCarousel2"
+  }
+}

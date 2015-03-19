@@ -43,3 +43,6 @@ Binnen dit pakket heb ik de main in bower aangepast, als dat mislukt of als er e
         "./dist/assets/owl.carousel.css"
       ]
     },
+
+
+

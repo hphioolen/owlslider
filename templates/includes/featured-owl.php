@@ -1,5 +1,6 @@
 <?php
 /**
+
  *  Homepage Slider OWLSLIDER Package
  *  javascript in _main.js 
  */
@@ -12,6 +13,7 @@
 	$full_width                  = false;
 	$show_title	                 = false;
 	$show_description            = false;
+
 ?>
 
 
@@ -21,6 +23,7 @@
 
 
 <?php if (( count($slides) > 0 )) { ?>
+
 
 <div class="slider-container">
 	
@@ -59,3 +62,4 @@
 	<?php endif; ?>
 </div>    
 <?php }?>
+

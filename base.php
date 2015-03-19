@@ -1,3 +1,10 @@
+<?php 
+
+# Dit is een voorbeeld van een Base.php waarin de slider verwerkt is 
+# vervang onderdelen of het geheel in de base om de Featured Owl Te integreren
+# Dit bestand is onderdeel van OWL FEATURED
+	
+?>
 <?php
 
 namespace Roots\Sage;
